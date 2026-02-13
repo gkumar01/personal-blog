@@ -152,8 +152,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-# baseurl: /personal-blog  # the subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: /personal-blog  # the subpath of your site, e.g. /blog
+#baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
