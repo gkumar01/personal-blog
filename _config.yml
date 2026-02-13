@@ -152,7 +152,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/blogjekyll"
+baseurl: /home
 
 # ------------ The following options are not recommended to be modified ------------------
 
