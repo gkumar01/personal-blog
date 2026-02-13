@@ -9,6 +9,6 @@ type: blogs
 
 ## Hello
 
-[DNA-Seq: Basic](/_posts/2026-02-10-rna_seq_basics.md)
+<!-- [DNA-Seq: Basic](/posts/2026-02-10-rna_seq_basics.md)
 
-[RNA-seq: Basics](/_posts/2026-02-10-rna_seq_basics.md)
+[RNA-seq: Basics](/posts/2026-02-10-rna_seq_basics.md) -->
